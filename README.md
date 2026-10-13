@@ -2,6 +2,8 @@
 
 Recriação do aplicativo educativo T-Intervalos a partir do pacote Windows `T-Intervalos-Deploy4.zip`, com análise REA do código, configurações e recursos originais.
 
+**[Jogar no navegador](https://glauberlasantiago.github.io/t-intervalos/)**
+
 ## Modos
 
 - **Tom e Semitom:** reconheça distâncias de um ou dois semitons.
