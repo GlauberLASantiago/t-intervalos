@@ -1,0 +1,479 @@
+{
+  "interval": {
+    "title": "Intervalo musical",
+    "segments": [
+      {
+        "type": "text",
+        "text": "Intervalo musical é o nome que se dá à medida da distância entre a altura de duas notas musicais. De uma nota Dó para uma nota Ré, se tem um intervalo. Assim como de qualquer nota para qualquer outra diferente."
+      },
+      {
+        "type": "text",
+        "text": "Para se indicar um intervalo musical se utiliza de uma variedade de sistemas. Nos demais itens dos fundamentos estão expostas as principais maneiras."
+      }
+    ]
+  },
+  "basic": {
+    "title": "Classificação Básica",
+    "segments": [
+      {
+        "type": "text",
+        "text": "Para identificar um intervalo neste modo, verifique quais são as duas notas e depois realize uma contagem iniciando pela primeira nota e finalizando na outra nota do intervalo, como se houvesse uma escala entre elas. Se a segunda nota for mais aguda que a primeira (intervalo ascendente), conte para cima; se a segunda nota for mais grave que a primeira (intervalo descendente), conte para baixo."
+      },
+      {
+        "type": "text",
+        "text": "Exemplos de intervalos ascendentes:\r\n- De Dó a Ré temos um intervalo de segunda (Dó-Ré: 2 notas);\r\n- De Ré a Lá temos um intervalo de quinta (Ré-Mi-Fá-Sol-Lá: 5 notas);\r\n- De Sol a outro Sol, temos um intervalo de oitava (Sol-Lá-Si-Dó-Ré-Mi-Fá-Sol)."
+      },
+      {
+        "type": "text",
+        "text": "Nessa maneira de se classificar os intervalos são utilizados os seguintes termos: segunda (2ª), terça (3ª), quarta (4ª), quinta (5ª), sexta (6ª), sétima (7ª), oitava (8ª), nona (9ª), décima (10ª), décima primeira (11ª), décima segunda (12ª), etc."
+      },
+      {
+        "type": "text",
+        "text": "Quando se utiliza a classificação básica, são ignoradas as alterações da nota musical, como sustenidos, bemóis, bequadros, dobrados sustenidos e dobrados bemóis."
+      },
+      {
+        "type": "text",
+        "text": "Abaixo temos uma série de exemplos de intervalos e suas classificações básicas. Observe cada uma delas, pois trazem ideias adicionais:"
+      },
+      {
+        "type": "text",
+        "text": "Intervalo ascendente de quinta (ignore as alterações e conte as notas de baixo para cima nos dedos):"
+      },
+      {
+        "type": "image",
+        "src": "./assets/images/fund3-white.png"
+      },
+      {
+        "type": "text",
+        "text": "Intervalo descendente de segunda (conte as notas de cima para baixo)."
+      },
+      {
+        "type": "image",
+        "src": "./assets/images/fund4-white.png"
+      },
+      {
+        "type": "text",
+        "text": "Intervalo harmônico de terça (a contagem pode ser feita em qualquer um dos dois sentidos):"
+      },
+      {
+        "type": "image",
+        "src": "./assets/images/fund5-white.png"
+      },
+      {
+        "type": "text",
+        "text": "Intervalo de nona:"
+      },
+      {
+        "type": "image",
+        "src": "./assets/images/fund6-white.png"
+      },
+      {
+        "type": "text",
+        "text": "Intervalo de primeira:"
+      },
+      {
+        "type": "image",
+        "src": "./assets/images/fund7-white.png"
+      }
+    ]
+  },
+  "complete": {
+    "title": "Classificação Completa",
+    "segments": [
+      {
+        "type": "text",
+        "text": "Para se refinar, ou melhorar a precisão da marcação dos intervalos, pode-se utilizar termos adicionais como maior (M), menor (m), justa (J), aumentada (A) ou diminuta (d) à contagem ordinal utilizada na classificação básica. Esta nomenclatura adicional considera o número de semitons resultantes entre as duas notas do intervalo."
+      },
+      {
+        "type": "text",
+        "text": "Por exemplo: de Dó a Mi tem-se um intervalo de terça maior. É terça pois envolve três notas (Dó-Ré-Mi) e é maior pois é uma terça com 4 semitons (Dó-Dó#, Dó#-Ré, Ré-Ré# e Ré#-Mi). Veja esse exemplo na figura abaixo:"
+      },
+      {
+        "type": "image",
+        "src": "./assets/images/fund8-white.png"
+      },
+      {
+        "type": "text",
+        "text": "Nesta parte da teoria musical, embora se tenha bastante o que raciocinar, o maior obstáculo é memorizar cada intervalo. A técnica de memorização pode variar, mas sempre é baseada na necessidade de saber prontamente a classificação de um intervalo."
+      },
+      {
+        "type": "text",
+        "text": "Devido às peculiaridades de escala musical que utilizamos (a escala diatônica, com diferenças de tom e semitom entre as notas) os vários intervalos são classificados de duas maneiras. Uma delas é utilizada pelos intervalos de segunda, terça, sexta e sétima que é caracterizada pela adição dos termos maior, menor, aumentada e diminuta. A outra maneira é utilizada pelos intervalos de quarta, quinta e oitava que é caracterizada pela adição dos termos justa, aumentada e diminuta. A diferença entre cada um destes termos adicionais refere-se a um semitom. Veja o quadro abaixo:"
+      },
+      {
+        "type": "image",
+        "src": "./assets/images/fund9-white.png"
+      },
+      {
+        "type": "text",
+        "text": "Observação: O intervalo de primeira diminuta não existe, pois equivale ao intervalo de primeira aumentada. Observe que o mais próximo que duas notas ficam, é quando são iguais, gerando um intervalo de primeira justa (uníssono). Nesse caso, quando a segunda nota é diminuída em mais um semitom, isso na verdade gera um intervalo de primeira aumentada descendente."
+      },
+      {
+        "type": "text",
+        "text": "Para ficar mais claro, observe os dados da tabela anterior relacionando-os aos exemplos de cada um dos intervalos a seguir, todos partindo da nota Dó. Ao entender o raciocínio com a nota Dó você poderá facilmente utilizar a lógica com intervalos envolvendo outras notas. Vamos ao quadro:"
+      },
+      {
+        "type": "image",
+        "src": "./assets/images/fund10_p1-white.png"
+      },
+      {
+        "type": "image",
+        "src": "./assets/images/fund10_p2-white.png"
+      },
+      {
+        "type": "image",
+        "src": "./assets/images/fund10_p3-white.png"
+      },
+      {
+        "type": "image",
+        "src": "./assets/images/fund10_p4-white.png"
+      },
+      {
+        "type": "image",
+        "src": "./assets/images/fund10_p5-white.png"
+      },
+      {
+        "type": "image",
+        "src": "./assets/images/fund10_p6-white.png"
+      },
+      {
+        "type": "image",
+        "src": "./assets/images/fund10_p7-white.png"
+      },
+      {
+        "type": "image",
+        "src": "./assets/images/fund10_p8-white.png"
+      },
+      {
+        "type": "text",
+        "text": "Você não tem que memorizar todos os intervalos, para facilitar basta memorizar um de cada. Por exemplo: Memorize que a terça maior tem 4 semitons, e depois é só lembrar que a aumentada terá um semitom a mais; a menor, um a menos; e a diminuta, dois a menos. Veja o quadro a seguir para ver como fica mais fácil:"
+      },
+      {
+        "type": "image",
+        "src": "./assets/images/fund11-white.png"
+      },
+      {
+        "type": "text",
+        "text": "A idéia do quadro acima é que quando se utiliza as sete notas musicais básicas e se parte da nota Dó, os intervalos resultantes serão sempre maiores ou justos. Bem, conhecendo os intervalos maiores e justos, pode-se chegar aos demais, bastando para isso pensar nos semitons acima ou abaixo. Veja essas informações resumidas no quadro a seguir:"
+      },
+      {
+        "type": "image",
+        "src": "./assets/images/fund12-white.png"
+      },
+      {
+        "type": "text",
+        "text": "Vamos pegar como exemplo o seguinte caso:"
+      },
+      {
+        "type": "image",
+        "src": "./assets/images/fund13-white.png"
+      },
+      {
+        "type": "text",
+        "text": "De Dó a Mi bemol, tenho um intervalo de terça. Sei que é de terça, pois tenho três notas “envolvidas” (Dó, Ré e Mi). Mas tenho que descobrir se esta terça é maior, menor, aumentada ou diminuta, e para isso lembro do que memorizei: “de Dó a qualquer uma das sete notas básicas tenho apenas intervalos maiores ou justos”. Ora, as terças não podem ser justas então de Dó a Mi seria um terça maior. E, já que o Mi indicado é bemol, ou seja, um semitom abaixo, tenho que o intervalo é que terça menor."
+      }
+    ]
+  },
+  "ascdesc": {
+    "title": "Intervalos Melódicos Ascendentes ou Descendentes",
+    "segments": [
+      {
+        "type": "text",
+        "text": "Os intervalos melódicos podem ser classificados como ascendentes, quando a segunda nota é mais aguda que a primeira; ou como descendente, quando a segunda nota é mais grave que a primeira. Veja os exemplos:"
+      },
+      {
+        "type": "image",
+        "src": "./assets/images/fund16-white.png"
+      },
+      {
+        "type": "text",
+        "text": "Os cinco primeiros intervalos são ascendentes, enquanto os outros são descendentes."
+      }
+    ]
+  },
+  "melodicharm": {
+    "title": "Intervalos Melódicos e Intervalos Harmônicos",
+    "segments": [
+      {
+        "type": "text",
+        "text": "Os intervalos podem ser classificados quanto à simultaneidade das notas como harmônicos ou melódicos. Eles são harmônicos quando as notas aparecem simultaneamente, e são melódicos quando as notas surgem sucessivamente."
+      },
+      {
+        "type": "text",
+        "text": "Exemplos de intervalos harmônicos:"
+      },
+      {
+        "type": "image",
+        "src": "./assets/images/fund14-white.png"
+      },
+      {
+        "type": "text",
+        "text": "Exemplos de intervalos melódicos:"
+      },
+      {
+        "type": "image",
+        "src": "./assets/images/fund15-white.png"
+      }
+    ]
+  },
+  "tonesemitone": {
+    "title": "Tom e Semitom",
+    "segments": [
+      {
+        "type": "text",
+        "text": "Uma maneira de classificação dos intervalos utiliza-se de dois termos relacionados entre si: o Tom e o Semitom."
+      },
+      {
+        "type": "text",
+        "text": "No sistema de afinação chamado “sistema temperado”, o semitom é o menor intervalo utilizado. Por exemplo: entre duas casas contíguas do braço de um violão, o intervalo que se dá entre as notas é um semitom. Entre duas teclas juntas de um piano também há um semitom."
+      },
+      {
+        "type": "text",
+        "text": "Partindo da definição do que é semitom, define-se o que é tom. Tom é um intervalo formado por dois semitons."
+      },
+      {
+        "type": "text",
+        "text": "Entre as notas musicais básicas (Dó-Ré-Mi-Fá-Sol-Lá-Si-Dó) existem tons e semitons. Conforme a indicação na figura abaixo que mostra um teclado de piano."
+      },
+      {
+        "type": "image",
+        "src": "./assets/images/fund1-white.png"
+      },
+      {
+        "type": "text",
+        "text": "Entre o Dó e o Ré existem dois semitons (ou um tom), pois existe uma tecla preta que toca uma outra nota entre estas duas. Da mesma forma entre o Ré e o Mi, o Fá e o Sol, o Sol e o Lá e o Lá e o Si. Por outro lado, da nota Mi para a nota Fá se tem apenas um semitom, pois não existe nenhuma tecla preta entre elas. Da mesma forma ocorre entre o Si e o Dó."
+      },
+      {
+        "type": "text",
+        "text": "Observe e memorize essas informações a partir do quadro-resumo:"
+      },
+      {
+        "type": "image",
+        "src": "./assets/images/fund2-white.png"
+      },
+      {
+        "type": "text",
+        "text": "Os acidentes como sustenido (#) e bemol (b) alteram a nota em um semitom para o agudo e para o grave, respectivamente. Logo:\r\n- de Dó a Dó# temos um intervalo ascendente de 1 semitom;\r\n- de Ré a Réb temos um intervalo descendente de 1 semitom."
+      }
+    ]
+  },
+  "diatchrom": {
+    "title": "Intervalos Diatônicos ou Cromáticos",
+    "segments": [
+      {
+        "type": "text",
+        "text": "São chamados de intervalos cromáticos aqueles que possuem alteração (sustenidos, bemóis, dobrados sustenidos, dobrados bemóis ou bequadros) em alguma das notas, mesmo considerando-se a tonalidade (armadura de clave). São intervalos diatônicos aqueles cujas notas não apresentam alterações adicionais à armadura de clave. Veja os exemplos:"
+      },
+      {
+        "type": "text",
+        "text": "Intervalos cromáticos:"
+      },
+      {
+        "type": "image",
+        "src": "./assets/images/fund18-white.png"
+      },
+      {
+        "type": "text",
+        "text": "Intervalos diatônicos:"
+      },
+      {
+        "type": "image",
+        "src": "./assets/images/fund19-white.png"
+      }
+    ]
+  },
+  "simplecomp": {
+    "title": "Intervalos Simples ou Compostos",
+    "segments": [
+      {
+        "type": "text",
+        "text": "São chamados de simples, aqueles intervalos menores ou iguais a uma oitava; e são compostos os intervalos que forem maiores que a oitava, ou seja, iguais ou maiores que uma nona. Veja os exemplos:"
+      },
+      {
+        "type": "image",
+        "src": "./assets/images/fund17-white.png"
+      },
+      {
+        "type": "text",
+        "text": "Os cinco primeiros intervalos são simples, enquanto os outros são compostos."
+      },
+      {
+        "type": "text",
+        "text": "Observação: O intervalo composto usa a mesma subclassificação de seu simples correspondente. Se de Dó a Ré tenho uma segunda maior, de Dó a Ré oitava acima tenho uma nona maior. Ou se de Sol a Si bemol tenho uma terça menor, de Sol a Si bemol oitava acima tenho uma décima menor. E assim por diante."
+      }
+    ]
+  },
+  "instr": {
+    "title": "Apoio em instrumentos musicais",
+    "segments": [
+      {
+        "type": "text",
+        "text": "Veremos nas imagens a seguir, exemplos de como os intervalos podem ser representados e tocados em alguns instrumentos de corda percutida e instrumentos de tecla. A ideia é que os instrumentos possam ser utilizados como apoio na prática de intervalos nos diversos tipos de jogo!"
+      },
+      {
+        "type": "text",
+        "text": "•\tTom Semitom, Classificação Básica e Classificação Completa: Ao tocar no instrumento as mesmas notas que foram sorteadas no jogo, isso ajudará a identificar o intervalo sorteado por meio da digitação (disposição dos dedos) nas casas do instrumento de cordas percutidas, ou pela contagem de semitons nas teclas;"
+      },
+      {
+        "type": "text",
+        "text": "•\tAuditivo: Ao encontrar e tocar no instrumento as notas tocadas no jogo, isso ajudará a identificar a quantidade de semitons de distância existentes no intervalo sonoro sorteado."
+      },
+      {
+        "type": "heading",
+        "text": "Instrumentos de corda percutida:"
+      },
+      {
+        "type": "text",
+        "text": "Pode ser utilizado o violão, a guitarra, ou ainda o contrabaixo de 4 cordas, desde que esses instrumentos estejam afinados da maneira mais usual:"
+      },
+      {
+        "type": "image",
+        "src": "./assets/images/fund20-white.png"
+      },
+      {
+        "type": "text",
+        "text": "Observação: O contrabaixo de 4 cordas possui a mesma configuração das 4 cordas mais graves do violão (cordas 3, 4, 5 e 6)."
+      },
+      {
+        "type": "text",
+        "text": "No violão, a distância de uma casa no braço do instrumento representa um semitom. Por exemplo: se na corda 6 do violão, é tocada a nota da casa 1 e na sequência a nota da casa 2, temos um intervalo de semitom. Veja e ouça esse exemplo:"
+      },
+      {
+        "type": "audioImage",
+        "title": "violao semitom",
+        "audio": "./assets/audio/violao_semitom.ogg",
+        "src": "./assets/images/fund21-white.png"
+      },
+      {
+        "type": "text",
+        "text": "(Clique na imagem para ouvir)"
+      },
+      {
+        "type": "text",
+        "text": "Partindo da mesma lógica, torna-se possível criar modelos ou digitações no braço do instrumento, pois a disposição dos dedos nas casas pode auxiliar na identificação mais rápida de um intervalo qualquer, a partir do momento em que tal digitação é memorizada."
+      },
+      {
+        "type": "text",
+        "text": "Veja e ouça um exemplo de intervalo de Segunda (2ª) Maior, que também equivale a um intervalo 2 semitons ou de 1 tom:"
+      },
+      {
+        "type": "audioImage",
+        "title": "violao segundamaior",
+        "audio": "./assets/audio/violao_segundamaior.ogg",
+        "src": "./assets/images/fund22-white.png"
+      },
+      {
+        "type": "text",
+        "text": "Observação: Os números 1 e 3 presentes no exemplo, referem-se aos dedos utilizados para tocar, respectivamente, as casas 1 e 3 da 6ª corda do violão. Isso significa que, em qualquer outro lugar do braço do instrumento em que for repetida essa digitação, o intervalo resultante será de 1 Tom. O mesmo se aplica para os números presentes nos demais exemplos."
+      },
+      {
+        "type": "text",
+        "text": "Veja e ouça os demais exemplos abaixo. Na sequência, aproveite para tentar encontrar os demais intervalos no instrumento."
+      },
+      {
+        "type": "text",
+        "text": "Intervalos de Terça (3ª) Maior (4 semitons):"
+      },
+      {
+        "type": "audioImage",
+        "title": "violao tercamaior",
+        "audio": "./assets/audio/violao_tercamaior.ogg",
+        "src": "./assets/images/fund23-white.png"
+      },
+      {
+        "type": "text",
+        "text": "Intervalos de Quinta (5ª) Justa (7 semitons):"
+      },
+      {
+        "type": "audioImage",
+        "title": "violao quintajusta",
+        "audio": "./assets/audio/violao_quintajusta.ogg",
+        "src": "./assets/images/fund24-white.png"
+      },
+      {
+        "type": "text",
+        "text": "Intervalos de Oitava (8ª) Justa (12 semitons):"
+      },
+      {
+        "type": "audioImage",
+        "title": "violao oitavajusta",
+        "audio": "./assets/audio/violao_oitavajusta.ogg",
+        "src": "./assets/images/fund25-white.png"
+      },
+      {
+        "type": "text",
+        "text": "Observação: É necessário lembrar que ao fazer a verificação de intervalos que utilizem o conjunto das cordas 4 e 2, 3 e 2, ou 3 e 1, as digitações apresentadas serão alteradas por conta de características de afinação do próprio instrumento. Nesses casos, para que se possa utilizar a mesma lógica, a nota da corda 2, ou da corda 1, deve avançar uma casa em direção ao agudo."
+      },
+      {
+        "type": "heading",
+        "text": "Instrumentos de tecla:"
+      },
+      {
+        "type": "text",
+        "text": "Pode ser utilizado o piano ou sintetizadores (usualmente chamados de teclados):"
+      },
+      {
+        "type": "image",
+        "src": "./assets/images/fund26-white.png"
+      },
+      {
+        "type": "text",
+        "text": "No piano, a distância de uma tecla (considerando-se as teclas pretas) representa um semitom. Veja e ouça esse exemplo:"
+      },
+      {
+        "type": "audioImage",
+        "title": "piano semitom",
+        "audio": "./assets/audio/piano_semitom.ogg",
+        "src": "./assets/images/fund27-white.png"
+      },
+      {
+        "type": "text",
+        "text": "Dessa forma, a distância entre as teclas pode auxiliar na identificação mais rápida de um intervalo qualquer. Veja e ouça um exemplo de intervalo de Segunda (2ª) Maior, que também equivale a um intervalo de 1 tom:"
+      },
+      {
+        "type": "text",
+        "text": "Intervalos de Segunda (2ª) Maior (2 semitons ou 1 tom):"
+      },
+      {
+        "type": "audioImage",
+        "title": "piano segundamaior",
+        "audio": "./assets/audio/piano_segundamaior.ogg",
+        "src": "./assets/images/fund28-white.png"
+      },
+      {
+        "type": "text",
+        "text": "Veja e ouça os demais exemplos abaixo. Na sequência, aproveite para tentar encontrar os demais intervalos no instrumento."
+      },
+      {
+        "type": "text",
+        "text": "Intervalos de Terça (3ª) Maior (4 semitons):"
+      },
+      {
+        "type": "audioImage",
+        "title": "piano tercamaior",
+        "audio": "./assets/audio/piano_tercamaior.ogg",
+        "src": "./assets/images/fund29-white.png"
+      },
+      {
+        "type": "text",
+        "text": "Intervalos de Quinta (5ª) Justa (7 semitons):"
+      },
+      {
+        "type": "audioImage",
+        "title": "piano quintajusta",
+        "audio": "./assets/audio/piano_quintajusta.ogg",
+        "src": "./assets/images/fund30-white.png"
+      },
+      {
+        "type": "text",
+        "text": "Intervalos de Oitava (8ª) Justa (12 semitons):"
+      },
+      {
+        "type": "audioImage",
+        "title": "piano oitavajusta",
+        "audio": "./assets/audio/piano_oitavajusta.ogg",
+        "src": "./assets/images/fund31-white.png"
+      }
+    ]
+  }
+}
